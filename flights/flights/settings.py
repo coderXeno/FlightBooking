@@ -74,17 +74,6 @@ WSGI_APPLICATION = 'flights.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/4.2/ref/settings/#databases
 
-DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.postgresql',
-        # 'NAME': BASE_DIR / 'db.sqlite3',
-        'NAME': 'railway',
-        'USER': 'postgres',
-        'PASSWORD': '8zrAcOh6fFPGvDY3hhce',
-        'HOST': 'containers-us-west-204.railway.app',
-        'PORT': '7920',
-    }
-}
 
 # DATABASES = {
 #     'default': {
