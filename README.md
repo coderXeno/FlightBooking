@@ -1,7 +1,6 @@
 # FlightBooking
 Problem Statement:-
-Create a web application for flight ticket booking. A console based application would work.
-Submissions with a very basic UI will be given extra marks.
+Create a web application for flight ticket booking.
 Type of Users
 a. User
 b. Admin
