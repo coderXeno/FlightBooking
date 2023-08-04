@@ -1,0 +1,102 @@
+[
+  {
+    "company": "Airline A",
+    "destination": "New York",
+    "departureFrom": "Los Angeles",
+    "departureTime": "08:00 AM",
+    "arrivalTime": "11:00 AM",
+    "seatsAvailable": 60,
+    "price": 250.00,
+    "duration": "3 hours"
+  },
+  {
+    "company": "Airline B",
+    "destination": "London",
+    "departureFrom": "Paris",
+    "departureTime": "10:30 AM",
+    "arrivalTime": "02:00 PM",
+    "seatsAvailable": 60,
+    "price": 320.50,
+    "duration": "3 hours 30 minutes"
+  },
+  {
+    "company": "Airline C",
+    "destination": "Tokyo",
+    "departureFrom": "Seoul",
+    "departureTime": "09:15 AM",
+    "arrivalTime": "03:45 PM",
+    "seatsAvailable": 60,
+    "price": 450.75,
+    "duration": "6 hours 30 minutes"
+  },
+  {
+    "company": "Airline D",
+    "destination": "Dubai",
+    "departureFrom": "Cairo",
+    "departureTime": "01:00 PM",
+    "arrivalTime": "06:30 PM",
+    "seatsAvailable": 60,
+    "price": 280.25,
+    "duration": "5 hours 30 minutes"
+  },
+  {
+    "company": "Airline E",
+    "destination": "Sydney",
+    "departureFrom": "Melbourne",
+    "departureTime": "11:30 AM",
+    "arrivalTime": "04:30 PM",
+    "seatsAvailable": 60,
+    "price": 360.00,
+    "duration": "5 hours"
+  },
+  {
+    "company": "Airline F",
+    "destination": "Singapore",
+    "departureFrom": "Kuala Lumpur",
+    "departureTime": "02:45 PM",
+    "arrivalTime": "06:15 PM",
+    "seatsAvailable": 60,
+    "price": 290.50,
+    "duration": "3 hours 30 minutes"
+  },
+  {
+    "company": "Airline G",
+    "destination": "Rome",
+    "departureFrom": "Berlin",
+    "departureTime": "03:00 PM",
+    "arrivalTime": "06:30 PM",
+    "seatsAvailable": 60,
+    "price": 400.00,
+    "duration": "3 hours 30 minutes"
+  },
+  {
+    "company": "Airline H",
+    "destination": "Moscow",
+    "departureFrom": "St. Petersburg",
+    "departureTime": "11:00 AM",
+    "arrivalTime": "02:00 PM",
+    "seatsAvailable": 60,
+    "price": 270.00,
+    "duration": "3 hours"
+  },
+  {
+    "company": "Airline I",
+    "destination": "Cape Town",
+    "departureFrom": "Johannesburg",
+    "departureTime": "12:45 PM",
+    "arrivalTime": "04:15 PM",
+    "seatsAvailable": 60,
+    "price": 340.25,
+    "duration": "3 hours 30 minutes"
+  },
+  {
+    "company": "Airline J",
+    "destination": "Toronto",
+    "departureFrom": "Vancouver",
+    "departureTime": "10:00 AM",
+    "arrivalTime": "03:00 PM",
+    "seatsAvailable": 60,
+    "price": 380.75,
+    "duration": "5 hours"
+  }
+]
